@@ -82,11 +82,8 @@ This structure enables flexible slicing across:
 
 The Tableau dashboard provides a comprehensive operational view of call centre performance, including SLA tracking, agent productivity, and customer sentiment.
 
-![Image](https://www.tableau.com/sites/default/files/2020-10/Screen%20Shot%202020-10-06%20at%203.31.21%20PM_0.png)
+![Image](https://public.tableau.com/app/profile/nwajagu.stanley/viz/CallCentreAnalysis_17678002096380/Dashboard)
 
-![Image](https://www.tableau.com/sites/default/files/call_center_2.png)
-
-![Image](https://miro.medium.com/v2/resize%3Afit%3A1200/1%2AHR-zKvEjoLWTGKopcUh2DQ.png)
 
 ### Key Components
 
