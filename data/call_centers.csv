@@ -1,0 +1,5 @@
+Call_Center_ID,Call_Center_Name,State,City,Region,Capacity_Tier
+CC01,Northeast Hub,NY,New York,Northeast,High
+CC02,Southern Hub,TX,Dallas,South,High
+CC03,Midwest Hub,IL,Chicago,Midwest,Medium
+CC04,West Coast Hub,CA,Los Angeles,West,High
