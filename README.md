@@ -263,16 +263,3 @@ Addressing these areas will lead to improved customer satisfaction, lower operat
 
 ---
 
-
-## How to Use
-
-1. Download the Tableau workbook (`.twbx`) from the `/dashboards/tableau` folder
-2. Open using Tableau Desktop
-3. Use filters (Date, Sentiment, SLA Status) to explore insights
-4. Interact with visuals to drill down into performance metrics
-
----
-
-
----
-
